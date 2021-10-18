@@ -2,6 +2,6 @@
 
 My LinkedIn profile is [here](https://www.linkedin.com/in/vladcostache/).
 
-![not available](gh-pages/monkey.jpg)
+![not available](monkey.jpg)
 
 Thanks!
