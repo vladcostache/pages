@@ -1,3 +1,7 @@
-## Welcome to my GitHub Page
+## Vlad Costache
 
-You can use the [editor on GitHub](https://github.com/vladcostache/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My LinkedIn profile is [here](https://www.linkedin.com/in/vladcostache/).
+
+![not available](monkey.jpg)
+
+Thanks!
